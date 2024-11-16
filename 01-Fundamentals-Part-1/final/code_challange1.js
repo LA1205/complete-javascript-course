@@ -7,3 +7,4 @@ let BMIJohn = Johnmass / Johnheight ** 2;
 let markHigherBMI = BMIMark > BMIJohn;
 console.log("Mark has heigher BMI is", markHigherBMI, ".");
 // console.log("Mark has heigher BMI is " + markHigherBMI + ".");
+let a
