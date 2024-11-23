@@ -1,3 +1,4 @@
 {
-    "terminal.integrated.detectLocale": "on"
+    "terminal.integrated.detectLocale": "on",
+    "terminal.integrated.fontFamily": "'mesloLGS NF'"
 }
