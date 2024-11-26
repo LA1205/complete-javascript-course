@@ -5,5 +5,15 @@ const Johnheight = 1.95;
 let BMIMark = Markmass / Markheight ** 2;
 let BMIJohn = Johnmass / Johnheight ** 2;
 let markHigherBMI = BMIMark > BMIJohn;
-console.log("Mark has heigher BMI is", markHigherBMI, ".");
+// console.log("Mark has heigher BMI is", markHigherBMI, ".");
 // console.log("Mark has heigher BMI is " + markHigherBMI + ".");
+// teamplate string below
+console.log(`Mark has higher BMI is ${markHigherBMI}.`);
+// multiline string below
+console.log(`Mark
+has
+higher
+BMI
+is
+${markHigherBMI}
+.`);
